@@ -1,14 +1,14 @@
 {
   "name": "socket.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learing Web Socket without express",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["Web Socket", "ws"],
   "author": "",
   "license": "ISC",
   "dependencies": {
